@@ -5,7 +5,7 @@ WSA with Gappsへようこそ。このアプリは、[LSPosed](https://github.co
 Windows11 22H2以降
 ## 手順
 1. 
-[![1d4928ccec140eb85ee1cbcb1d2d82fb_t](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/assets/157256239/f612569e-9de9-4f85-b801-00bff832c018)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/v1/WSA.with.Gapps.x64.v1.setup.exe "今すぐダウンロード")
+[![1d4928ccec140eb85ee1cbcb1d2d82fb_t](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/assets/157256239/f612569e-9de9-4f85-b801-00bff832c018)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/b1/WSA.with.Gapps.Setup.exe "今すぐダウンロード")
 
 2. インストーラを開き、インストール。
 3. WSA with Gappsを実行。
