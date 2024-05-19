@@ -1,4 +1,3 @@
-# WSA with Gapps
 ## 概要
 WSA with Gappsへようこそ。このアプリは、[LSPosed](https://github.com/LSPosed)さんの[MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)でビルドした、Gapps入りWSAをマウントするアプリです。[Issues](https://github.com/kamekuridaiya/WSA-with-Gapps/issues)に問題を書いてくだされば、新バージョンを公開します。公式のWSAは2025年3月6日([Amazonアプリストア](https://apps.microsoft.com/detail/9njhk44ttksx?hl=ja-jp&gl=JP)は2024年3月6日)にサービス終了します。
 ## 環境
