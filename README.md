@@ -2,7 +2,9 @@
 ## 概要
 WSA with Gappsへようこそ。このアプリは、[LSPosed](https://github.com/LSPosed)さんの[MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)でビルドした、Gapps入りWSAをマウントするアプリです。[Issues](https://github.com/kamekuridaiya/WSA-with-Gapps/issues)に問題を書いてくだされば、新バージョンを公開します。公式のWSAは2025年3月6日([Amazonアプリストア](https://apps.microsoft.com/detail/9njhk44ttksx?hl=ja-jp&gl=JP)は2024年3月6日)にサービス終了します。
 ## 環境
-Windows10のビルド10.0.19045.2311以降(**WSA with Gappsのv3以降は**)
+Windows10のビルド10.0.19045.2311以降のx64(**WSA with Gappsのv3以降は**)
+
+※arm64は、[こちら](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_2_arm64#:~:text=WSA_2311.40000.5.0_arm64_Release%2DNightly%2DGApps%2D13.0,3%20weeks%20ago)からダウンロードしてください。
 ## 手順
 1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat&logo=Windows11)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/b1/WSA.with.Gapps.Setup.exe "今すぐダウンロード")
 2. インストーラを開き、インストール。
