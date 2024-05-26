@@ -1,5 +1,4 @@
-
-## 概要
+## ![LatteLogo](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/assets/157256239/bbb5f099-bf65-4ad5-91fe-d992797115d4)概要
 WSA with Gappsへようこそ。このアプリは、[LSPosed](https://github.com/LSPosed)さんの[MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)でビルドした、Gapps入りWSAをマウントするアプリです。[Issues](https://github.com/kamekuridaiya/WSA-with-Gapps/issues)に問題を書いてくだされば、新バージョンを公開します。公式のWSAは2025年3月6日([Amazonアプリストア](https://apps.microsoft.com/detail/9njhk44ttksx?hl=ja-jp&gl=JP)は2024年3月6日)にサービス終了します。
 ## 環境
 Windows10のビルド10.0.19045.2311以降のx64(**WSA with Gappsのv3以降は**)
