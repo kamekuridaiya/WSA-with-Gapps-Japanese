@@ -5,7 +5,7 @@ Windows10のビルド10.0.19045.2311以降のx64(**WSA with Gappsのv3以降は*
 
 ※Windows11のarm64は[こちら](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_2_arm64#:~:text=WSA_2311.40000.5.0_arm64_Release%2DNightly%2DGApps%2D13.0,3%20weeks%20ago)、Windows10のarm64は[こちら](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2311.40000.5.0_LTS_1#:~:text=WSA_2311.40000.5.0_x64_Release%2DNightly%2DGApps%2D13.0,Apr%204)からダウンロードしてください。手順3からは一緒です。
 ## 手順
-1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat&logo=Windows11)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/b1/WSA.with.Gapps.Setup.exe "今すぐダウンロード")
+1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat&logo=Windows11)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/v3/WSA.with.Gapps.Setup.exe "今すぐダウンロード")
 2. インストーラを開き、インストール。
 3. WSA with Gappsを実行。
 4. 説明を読んで、任意のキーを押して続行する。
