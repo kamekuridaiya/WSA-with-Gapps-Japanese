@@ -4,7 +4,7 @@ WSA with Gappsへようこそ。このアプリは、[LSPosed](https://github.co
 Windows10のビルド10.0.19045.2311以降のx64(**WSA with Gappsのv3以降は**)
 
 ※Windows11のarm64は[こちら](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_2_arm64#:~:text=WSA_2311.40000.5.0_arm64_Release%2DNightly%2DGApps%2D13.0,3%20weeks%20ago)、Windows10のarm64は[こちら](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_10_2311.40000.5.0_LTS_1#:~:text=WSA_2311.40000.5.0_x64_Release%2DNightly%2DGApps%2D13.0,Apr%204)からダウンロードしてください。手順3からは一緒です。
-## 手順
+## インストール方法
 1. [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?style=flat&logo=Windows11)](https://github.com/kamekuridaiya/WSA-with-Gapps-Japanese/releases/download/v3/WSA.with.Gapps.Setup.exe "今すぐダウンロード")
 2. インストーラを開き、インストール。
 3. WSA with Gappsを実行。
@@ -14,3 +14,12 @@ Windows10のビルド10.0.19045.2311以降のx64(**WSA with Gappsのv3以降は*
 7. アプリ群の中の「Google」を開く。
 8. ログイン。
 9. これで、Gappsが使える。
+## アップデート方法
+1. 新しいバージョンのインストーラを開く。
+2. インストールフォルダー作成の場面で、**フォルダ名**を変更する。
+3. インストールが完了したら、**新しいバージョンの**「WSA with Gapps.exe」(スタートメニューなどから)を開く。
+4. インストール方法5~8をする。
+5. データを保持したままアップデートできる。
+## アンインストール方法
+1. **WSA**をアンインストールする。
+2. WSA with Gappsをアンインストールする。
